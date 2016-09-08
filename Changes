@@ -1,6 +1,9 @@
 MIME-Base32
 ===========
 
+1.302	2016-06-17
+	- Updated the decode methods to be case insensitive
+
 1.301	2016-04-14
 	- release 1.300_001 without further changes as 1.301
 
